@@ -25,4 +25,4 @@ def search(name):
                 searched.append(person)
     return False
 
-search("artem")
+search("apple")
