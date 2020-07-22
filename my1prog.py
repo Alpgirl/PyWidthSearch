@@ -24,4 +24,5 @@ def search(name):
                 search_queue += graph[person]
                 searched.append(person)
     return False
-search("bob")
+
+search("inna")
